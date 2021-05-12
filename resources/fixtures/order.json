@@ -1,0 +1,23 @@
+{
+    "restaurant": "DEBUGER KING",
+    "desc": "40 anos se especializando em trash food.",
+    "products": [
+        {
+            "name": "Woopper Burger"
+        },
+        {
+            "name": "Batatas Fritas"
+        },
+        {
+            "name": "Refrigerante"
+        }
+    ],
+    "total": "28,50",
+    "customer": {
+        "name": "Gabriela Tavares",
+        "email": "gabists2@hotmail.com",
+        "address": "Rua ABC",
+        "number": "123"
+    },
+    "payment": "Dinheiro"
+}
